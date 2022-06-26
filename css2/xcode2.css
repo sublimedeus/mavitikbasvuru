@@ -1,0 +1,61 @@
+.center{
+
+}body{
+ 
+
+}.post-qen{
+	width:400px;
+	max-width:95%;
+	background:white;
+	box-sizing:border-box;
+	padding-top:15px;
+	padding-bottom:20px;
+	background:white;
+}.post-url{
+	max-width:95%;
+	width:300px;
+	height:300px;
+
+}.post-table{
+width:300px;
+padding-bottom:5px;
+
+}.post-tr{
+	width:100%;
+	
+}#one{
+width:10%;
+text-align:right;
+justify-content:center;
+align-items:center;
+	}#two{
+		width:70%;
+		text-align:left;
+
+		}#three{
+			width:20%;
+			box-sizing:border-box;
+			text-align:right;
+			padding-right:5px;
+		}.top-username{
+			font-family:sans-serif;
+			font-weight:400;
+			padding-left:5px;
+		}#dot{
+			
+			color:#444;
+		}.post-bottom{
+			width:300px;
+			max-width:95%;
+			padding-top:5px;
+			padding-left:5px;
+			text-align:left;
+
+		}.post-bottom span{
+			font-family:sans-serif;
+			font-size:14px;
+			color:#262626;
+		}
+
+
+

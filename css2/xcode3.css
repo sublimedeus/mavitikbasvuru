@@ -1,0 +1,7 @@
+body{
+	    background-image: linear-gradient(to right,#405DE6,red);
+}.center{
+	    background: linear-gradient(
+45deg
+,#bd1259,#f38000,#f63202,#f63202,#bd1259);
+}
